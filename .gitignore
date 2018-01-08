@@ -90,8 +90,6 @@ doc/*.html
 *.pdb
 *.tar
 *.tar.bz2
-*.tar.gz
-*.tgz
 #
 
 # Visual Studio Code
